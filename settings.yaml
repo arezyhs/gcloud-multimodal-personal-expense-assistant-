@@ -1,0 +1,5 @@
+GCLOUD_LOCATION: "us-central1"
+GCLOUD_PROJECT_ID: "test-personal-expense-335"
+BACKEND_URL: "http://localhost:8081/chat"
+STORAGE_BUCKET_NAME: "335-personal-expense-assistant-receipts"
+DB_COLLECTION_NAME: "335-personal-expense-assistant-receipts"
